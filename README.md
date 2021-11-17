@@ -1,5 +1,8 @@
 # voting
 
+[Documentation in English](docs/README.md)
+[Documentation in Russian](docs/README.md)
+
 ## Project setup
 ```
 npm install
