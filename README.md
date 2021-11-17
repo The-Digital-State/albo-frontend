@@ -3,6 +3,8 @@
 [Documentation in English](docs/README.md)
 [Documentation in Russian](docs/README.md)
 
+For the backend, see https://github.com/The-Digital-State/albo-backend
+
 ## Project setup
 ```
 npm install
