@@ -1,0 +1,53 @@
+//Common
+@import "mixins";
+
+body {
+  font-size: size(16);
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+ol li {
+  list-style-position: inside;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.main_wr {
+  min-height: 100%;
+}
+
+.subtitle {
+  font-size: $subtitle-font-size;
+  font-weight: 500;
+}
+
+//TODO: move breadcrumbs' styles into the separate scope
+
+.v-main__wrap .v-breadcrumbs {
+  .v-breadcrumbs__item {
+    color: $breadcrumbs-color;
+
+    &.v-breadcrumbs__item--disabled {
+      color: $breadcrumbs-color;
+      opacity: 0.38;
+    }
+  }
+}
+
+//Form Fields
+.v-input .theme--light.v-label {
+  color: $light-grey-c-4;
+}
+
+.v-expansion-panel-content {
+  border-top: 1px solid $light-grey-c;
+}

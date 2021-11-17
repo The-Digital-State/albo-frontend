@@ -1,0 +1,30 @@
+@import "mixins";
+
+//Fonts
+$font-family-condensed: 'Roboto Condensed', sans-serif;
+
+$subtitle-font-size: size(16);
+$sm-font-size: size(14);
+$border-radius: size(8);
+
+//Colors
+$secondary-c: #424242;
+$white-c: #ffffff;
+$black-c: #000000;
+$grey-c: #555555;
+$light-grey-c: #dadada;
+$light-grey-c-2: #dbdbdb;
+$light-grey-c-3: #fafafa;
+$light-grey-c-4: #9e9e9e;
+$light-grey-c-5: #E9E9E9;
+$blue-c: #1E88E5;
+$light-blue-c: #E3F2FD;
+$light-yellow-c: #FFFDE7;
+
+//Breadcrumbs
+$breadcrumbs-color: $secondary-c;
+$breadcrumbs-padding: size(15);
+
+//Panel
+$expansion-panel-header-font-size: size(16);
+$expansion-panel-content-padding: size(24);
