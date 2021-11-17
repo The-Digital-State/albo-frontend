@@ -28,13 +28,11 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# Contributors
+# About the author and the License
 
-This project has been developed by an independent team of developers who wished to remain anonymous.
+This project has been developed by an independent team of developers who wished to remain anonymous. Please give credit to "meta-belarus.org" if you are using this project.
 
-# License
-
-https://creativecommons.org/licenses/by/3.0/
+License: https://creativecommons.org/licenses/by/3.0/
 
 # Questions and communities
 
