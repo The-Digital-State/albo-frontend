@@ -5,6 +5,8 @@
 
 For the backend, see https://github.com/The-Digital-State/albo-backend
 
+Demo: https://albo.meta-belarus.org/ (in Russian)
+
 ## Project setup
 ```
 npm install
